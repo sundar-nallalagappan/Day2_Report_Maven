@@ -7,6 +7,7 @@ public class ClientDemo {
 
 		Demo d=new Demo();
 		System.out.println("multiplication is:-"+d.add(10, 10));
+		System.out.println("multiplication is:-"+d.add(5, 5));
 	}
 
 }
